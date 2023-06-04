@@ -1,3 +1,15 @@
+#Celine Watcharaapakorn-Smith
+#CNE350 Midterm Project Zipcode-Flask
+#06.03.2023
+
+#Restful interface that has search and update options for navigating a Zip code database on Phpmyadmin.
+
+#https://stackoverflow.com/questions/8211128/multiple-distinct-pages-in-one-html-file
+#https://stackoverflow.com/questions/902408/how-to-use-variables-in-sql-statement-in-python
+#https://stackoverflow.com/questions/1081750/python-update-multiple-columns-with-python-variables
+#https://stackoverflow.com/questions/7478366/create-dynamic-urls-in-flask-with-url-for
+#https://github.com/vimalloc/flask-jwt-extended/issues/175
+
 from flask import Flask, render_template, request
 import pandas as pd
 from sqlalchemy import create_engine
