@@ -1,7 +1,6 @@
 #Celine Watcharaapakorn-Smith
 #CNE350 Midterm Project Zipcode-Flask
 #06.03.2023
-
 #Restful interface that has search and update options for navigating a Zip code database on Phpmyadmin.
 
 #https://stackoverflow.com/questions/8211128/multiple-distinct-pages-in-one-html-file
